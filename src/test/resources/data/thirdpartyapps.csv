@@ -1,0 +1,2 @@
+id,clientId,clientSecret,redirectURL,totpSecret
+7e57d80f-3059-49ef-8f6e-30e688d2ffd1,P9uJjuOJpZrlLkHDaXRRNNHGiTdK,284c7d44-d11f-4f87-957e-1e71cb755137,http://localhost:11111/oauth,MBDD2IZJNJ4QCNL2
